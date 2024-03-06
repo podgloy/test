@@ -1,0 +1,47 @@
+body {
+    background : black;
+}
+
+.flex {
+    background: plum;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+    font-size: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.flex1 {
+    border: 3px solid papayawhip;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.flex2 {
+    border: 3px solid papayawhip;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-end;
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.flex3 {
+    border: 3px solid papayawhip;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-end;
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+}
